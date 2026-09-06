@@ -1,10 +1,10 @@
 {
   "appId":"dueloo",
-  "versionCode":1263,
-  "versionName":"0.2.263",
+  "versionCode":1265,
+  "versionName":"0.2.265",
   "minimumVersionCode":1000,
   "mandatory":false,
-  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1263",
-  "sha256":"40e60981f45564f9f804996d21424297fd3196ccf347a296df9597bce976874a",
+  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1265",
+  "sha256":"9d9dc5fa0249c952ac94ee0d0a51d6ba9d7dc200115a4aaea6b4d3769956d8a2",
   "notes":"Test Foundation 0.7 : vérification de l’interface de mise à jour entièrement brandée."
 }
