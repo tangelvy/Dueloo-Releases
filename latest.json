@@ -1,10 +1,10 @@
 {
   "appId":"dueloo",
-  "versionCode":1289,
-  "versionName":"0.2.289",
+  "versionCode":1297,
+  "versionName":"0.2.297",
   "minimumVersionCode":1000,
   "mandatory":false,
-  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1289",
-  "sha256":"1b26607be7b77d7878d1aa6ad37ec05540374731c949390e70e44303fd4e5cf4",
-  "notes":"Auto-fit long answer text in Group mode"
+  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1297",
+  "sha256":"3a05bd5e38af7a2ecd69009dbc3bca8ed72ec6a9c3fedc68f92b25ed06f60332",
+  "notes":"Keep player name on Group interactive screens"
 }
