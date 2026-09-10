@@ -1,10 +1,10 @@
 {
   "appId":"dueloo",
-  "versionCode":1315,
-  "versionName":"0.2.315",
+  "versionCode":1316,
+  "versionName":"0.2.316",
   "minimumVersionCode":1000,
   "mandatory":false,
-  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1315",
-  "sha256":"a3fa78388ceb2669bad2c0105a8e9fba6cc182d8bd8f4b27c7de676c1f204de0",
-  "notes":"Add Dueloo soirée 18+ mode"
+  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1316",
+  "sha256":"bc0012f7099e2a3e6d4ad64ef0805a15570c5b2ab5f5b4fff746e1f072334fa5",
+  "notes":"Add phone challenges to Dueloo soirée"
 }
