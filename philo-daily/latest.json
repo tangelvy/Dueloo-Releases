@@ -1,0 +1,10 @@
+{
+  "appId":"philo-daily",
+  "versionCode":1000,
+  "versionName":"0.1.0",
+  "minimumVersionCode":1000,
+  "mandatory":false,
+  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/philo-daily/Philo-latest.apk?v=1000",
+  "sha256":"2b560449f30148272d25ee042b355101a3e1ef757cfcc08aee823ac2a498a649",
+  "notes":"Première version de Philo : défi philosophique quotidien, culture flash, contre-argument et historique local."
+}
