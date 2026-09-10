@@ -3,8 +3,8 @@
   "versionCode":1316,
   "versionName":"0.2.316",
   "minimumVersionCode":1000,
-  "mandatory":false,
+  "mandatory":true,
   "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1316",
   "sha256":"bc0012f7099e2a3e6d4ad64ef0805a15570c5b2ab5f5b4fff746e1f072334fa5",
-  "notes":"Add phone challenges to Dueloo soirée"
+  "notes":"Dueloo soirée 18+ et défis téléphone. Mise à jour forcée pour rétablir le canal automatique."
 }
