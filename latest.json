@@ -1,10 +1,10 @@
 {
   "appId":"dueloo",
-  "versionCode":1309,
-  "versionName":"0.2.309",
+  "versionCode":1314,
+  "versionName":"0.2.314",
   "minimumVersionCode":1000,
   "mandatory":false,
-  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1309",
-  "sha256":"c95218426674d5ced4f26846b480ddf5639775dcebc37b647cc15fc98e2eefe1",
-  "notes":"Restore and save settings for each game mode"
+  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1314",
+  "sha256":"33ccad21e2cbc73101b83a23e9fa01e30c118e3ac7986e7ff85d49178f77f105",
+  "notes":"Avoid language quota collisions with adult phone challenges"
 }
