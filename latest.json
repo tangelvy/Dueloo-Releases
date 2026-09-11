@@ -1,10 +1,10 @@
 {
   "appId":"dueloo",
-  "versionCode":1345,
-  "versionName":"0.2.345",
+  "versionCode":1349,
+  "versionName":"0.2.349",
   "minimumVersionCode":1000,
   "mandatory":false,
-  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1345",
-  "sha256":"d05712dcb8a181e75e5e3a39d92f6b90965f50415eb1629ef1d3b2f3cbd56ee7",
-  "notes":"Fix Kotlin parsing in shape generators"
+  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1349",
+  "sha256":"d0d26dd1a9c81c9f2ad9fa3ac5a81b0552582fd6491143a88be592518492de4d",
+  "notes":"Expose dated question test mode from home"
 }
