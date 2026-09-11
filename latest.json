@@ -1,10 +1,10 @@
 {
   "appId":"dueloo",
-  "versionCode":1349,
-  "versionName":"0.2.349",
+  "versionCode":1359,
+  "versionName":"0.2.359",
   "minimumVersionCode":1000,
   "mandatory":false,
-  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1349",
-  "sha256":"d0d26dd1a9c81c9f2ad9fa3ac5a81b0552582fd6491143a88be592518492de4d",
-  "notes":"Expose dated question test mode from home"
+  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1359",
+  "sha256":"696afdda862fdee91a632530cb6e20755a8acbda6cf9d46f123b3870d6842893",
+  "notes":"Balance party smart distractor lengths"
 }
