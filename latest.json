@@ -1,10 +1,10 @@
 {
   "appId":"dueloo",
-  "versionCode":1329,
-  "versionName":"0.2.329",
+  "versionCode":1336,
+  "versionName":"0.2.336",
   "minimumVersionCode":1000,
   "mandatory":false,
-  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1329",
-  "sha256":"f9159ddf06db9af7642c19f7ec874710d8f28d91a1b11d22b65819db75aef8b3",
-  "notes":"Add guards for harder party corpus"
+  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1336",
+  "sha256":"95be200876704dfc96e8db304cb37fb435f76b04d9fc7963178c010cf46bbf8a",
+  "notes":"Guard party chaos volume and adult phone deck"
 }
