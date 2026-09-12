@@ -1,10 +1,10 @@
 {
   "appId":"dueloo",
-  "versionCode":1364,
-  "versionName":"0.2.364",
+  "versionCode":1365,
+  "versionName":"0.2.365",
   "minimumVersionCode":1000,
   "mandatory":false,
-  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1364",
-  "sha256":"e6cb79c62841286879a5968988859d9da47559786b615ea112033f710741ffa5",
-  "notes":"Give more observation time for arrow memory"
+  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1365",
+  "sha256":"5401cca8573261ee268a5f47b0fd2115c5d469641e149b934c877ba3329526c1",
+  "notes":"Add verified incredible true quiz questions"
 }
