@@ -1,10 +1,10 @@
 {
   "appId":"dueloo",
-  "versionCode":1368,
-  "versionName":"0.2.368",
+  "versionCode":1380,
+  "versionName":"0.2.380",
   "minimumVersionCode":1000,
   "mandatory":false,
-  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1368",
-  "sha256":"4a605a39c7b7ef97e29abd58a8ad732b8cbfbba2f6e9fecf8bee3b781ec4e06f",
-  "notes":"Test solo audience challenge filtering"
+  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1380",
+  "sha256":"1f2ee01907edd84cea3e06255680bfd41948b68b4518557b103662d83deab0de",
+  "notes":"Test adult difficulty pacing inside age range"
 }
