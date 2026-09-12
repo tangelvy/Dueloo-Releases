@@ -1,10 +1,10 @@
 {
   "appId":"dueloo",
-  "versionCode":1360,
-  "versionName":"0.2.360",
+  "versionCode":1361,
+  "versionName":"0.2.361",
   "minimumVersionCode":1000,
   "mandatory":false,
-  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1360",
-  "sha256":"8b6644a6902e30ab6c0bb3c1de036ba0891c795b116f39d001903393e9b69f71",
-  "notes":"chore(foundation): catch up to 0.7.8"
+  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1361",
+  "sha256":"52ccb737fc28f76be93e2b190d49ff4e032bfeb3df62d60a47aa62c3676a9cd2",
+  "notes":"Integrate drawing challenges into regular game modes"
 }
