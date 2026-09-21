@@ -1,10 +1,10 @@
 {
   "appId":"dueloo",
-  "versionCode":1416,
-  "versionName":"0.2.416",
+  "versionCode":1417,
+  "versionName":"0.2.417",
   "minimumVersionCode":1000,
   "mandatory":false,
-  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1416",
-  "sha256":"d3e040a508e1b5577273bf556f2b7e2686177d4fad8b67a9138b68bb87953885",
-  "notes":"chore(foundation): sync to 0.8.13"
+  "apkUrl":"https://raw.githubusercontent.com/tangelvy/Dueloo-Releases/main/Dueloo-latest.apk?v=1417",
+  "sha256":"266560d5dc7d49af3b1aca089c59cb00604c54a6cb2e121cb824978ae565e6eb",
+  "notes":"chore(foundation): sync to 0.8.14"
 }
